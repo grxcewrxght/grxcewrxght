@@ -1,5 +1,4 @@
 ### **Hi there, I'm Grace 👋**
-##### Pronouns: *she/her*
 
 #### *About Me 👩🏻‍💻✨*
 
