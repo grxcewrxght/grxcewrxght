@@ -1,5 +1,3 @@
-[![Linkedin Badge](https://img.shields.io/badge/-grxcewrxght-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/grace-h-wright/)](https://www.linkedin.com/in/grace-h-wright/)
-
 ### **Hi there, I'm Grace 👋**
 ##### Pronouns: *she/her*
 
