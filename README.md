@@ -7,7 +7,7 @@
 
 ✏️ **Python** / **SQL** / **Bash** / **Powershell**
 
-🔧 Firsthand experience with industry related technologies: **AWS** (**IAM, MSK, MWAA, EC2, RDS, Kinesis**) / **Apache Kafka** / **Apache Spark** / **Databricks** / **PgAdmin4** / **PostgreSQL**
+🔧 Firsthand experience with industry related technologies: **AWS** (**IAM, S3, MSK, MWAA, EC2, RDS, Kinesis, API Gateway**) / **Apache Kafka** / **Apache Spark** / **Databricks** / **PgAdmin4** / **PostgreSQL**
 
 🗿 Before taking on the world of tech, I completed an undergraduate degree in **Anthropology**. Throughout my time at university, we explored human past, present, and future. Bit by bit, I developed an observant interest as to where we have to go for the future as a collective, and believe that data and AI are the way forward. 
 
